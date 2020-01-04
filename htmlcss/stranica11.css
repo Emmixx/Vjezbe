@@ -1,0 +1,22 @@
+.naslovna{
+    width: 100%;
+    padding:0%;
+    margin:0%;
+}
+
+.sekcija{
+    background-color:white;
+    background-size: 90%;
+    padding: 10%; 
+}
+.prvi{
+    display: inline-block;
+    width: 40%;
+    padding: 10%;
+}
+
+.drugi{
+    display: inline-block;
+    width: 15%;
+    padding: 10%;
+}
