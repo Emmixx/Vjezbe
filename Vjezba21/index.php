@@ -1,3 +1,4 @@
+<?php require 'includes/functions.php'; ?>
 <!DOCTYPE HTML>
 <!--
 	Aerial by HTML5 UP

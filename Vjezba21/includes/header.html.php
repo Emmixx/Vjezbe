@@ -1,6 +1,6 @@
 <header id="header">
-    <h1>Adam Jensen</h1>
-    <p>Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this</p>
+    <h1><?php getUser('1'); ?></h1>
+    <p><?php getRoles(); ?></p>
     <!-- Nav: Start -->
     <?php require 'nav.html.php'; ?>
     <!-- Nav: End -->
