@@ -1,12 +1,9 @@
 .naslov{
-	background-color: #2ea3f2;
-	background-image: url("2-nature.jpg");
-	background-repeat:no-repeat;
-	background-attachment:fixed;
-	background-position: 5%;
 	width:90vw;
 	height:90vh;
 	color: #FFF;
 	background: url("2-nature.jpg") no-repeat 5% #2ea3f2 scroll;
 	background-size: 100%;
+	border: 4px dashed #000000;
+	background-clip: padding-box;
 }
